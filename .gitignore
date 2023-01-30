@@ -1,0 +1,6 @@
+/node_modules
+/package-lock.json
+cred.json
+/keytmp.pem
+/key.pem
+/cert.pem
